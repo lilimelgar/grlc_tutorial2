@@ -1,5 +1,6 @@
-#added before 2016-10
-#Demonstrates "no value" handling
+#+ summary: this shows humans without children
+#+ endpoint: https://query.wikidata.org/sparql
+
 SELECT ?human ?humanLabel
 WHERE
 {
